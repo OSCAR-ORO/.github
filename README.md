@@ -1,1 +1,1 @@
-> 🏛 Refer to **THE_BUILDER_CREED.md** before building anything.
+> 🏛 Refer to the **BUILDER_CREED.md** before building anything.
