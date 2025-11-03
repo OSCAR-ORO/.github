@@ -1,4 +1,4 @@
-# Builder Creed
+# MY BUILDER CREED
 
 ## 1. SIMPLICITY
 - Good code is simple code.
