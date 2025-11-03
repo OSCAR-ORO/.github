@@ -1,4 +1,4 @@
-# THE BUILDER CREED
+# OUR BUILDER CREED
 
 ## 1. SIMPLICITY
 - Good code is simple code.
@@ -9,7 +9,7 @@
 ---
 
 ## 2. ART
-- Good work should resemble art: **beautiful & durable**.
+- Good tech is art-like: **beautiful & durable**.
 - Care about every detail.
 - Reduce the number of details so you can care about all of them.
 - You're not writing code — **you're creating a machine**.
@@ -26,3 +26,5 @@
 
 ## 4. FULL CONTROL
 - Vertical integrate everything.
+- Know always what's happening to your machine.
+- Build modular; Control each module. 
