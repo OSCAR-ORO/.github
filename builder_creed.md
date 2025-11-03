@@ -16,17 +16,13 @@
 
 ---
 
-## 3. CLEAN BASE
+## 3. DEPENDENCY POLICY
 - Don’t use anything you don’t understand.
-
----
-
-## 4. DEPENDENCY POLICY
 - Avoid dependencies unless absolutely essential.
 - Prefer native APIs and first-party tools.
 - If a library can be replaced with <50 LOC, replace it.
 
 ---
 
-## 5. FULL CONTROL
+## 4. FULL CONTROL
 - Vertical integrate everything.
