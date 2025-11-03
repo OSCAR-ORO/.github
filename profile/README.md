@@ -26,3 +26,5 @@
 
 ## 4. FULL CONTROL
 - Vertical integrate everything.
+- Know always what's happening to your machine.
+- Build modular; Control each module. 
