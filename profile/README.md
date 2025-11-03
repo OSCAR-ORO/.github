@@ -9,7 +9,7 @@
 ---
 
 ## 2. ART
-- Good work should resemble art: **beautiful & durable**.
+- Good tech is art-like: **beautiful & durable**.
 - Care about every detail.
 - Reduce the number of details so you can care about all of them.
 - You're not writing code — **you're creating a machine**.
