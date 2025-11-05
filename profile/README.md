@@ -27,4 +27,7 @@
 ## 4. FULL CONTROL
 - Vertical integrate everything.
 - Know always what's happening to your machine.
-- Build modular; Control each module. 
+- Build modular; Control each module.
+
+<img width="409" height="610" alt="moonsun" src="https://github.com/user-attachments/assets/14812786-51cb-4d2c-9ef7-b844cc8c02f5" />
+
