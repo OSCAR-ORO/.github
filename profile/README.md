@@ -4,7 +4,8 @@
 - Good code is simple code.
 - Always ask: _What’s the simplest way to do this?_
 - Delete anything non-essential.
-- Use the simplest tech first before adding complexity.
+- Use the simplest tech first before adding complexity:
+  - HTML/SVG > CSS > JS/TS > ...
 
 ---
 
