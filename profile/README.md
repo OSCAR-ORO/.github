@@ -14,6 +14,7 @@
 - Care about every detail.
 - Reduce the number of details so you can care about all of them.
 - You're not writing code — **you're creating a machine**.
+- Think in terms of **Projects/Machines**, not Hardware/Software.
 
 ---
 
