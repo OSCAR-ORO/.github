@@ -19,10 +19,10 @@
 ---
 
 ## 3. DEPENDENCY POLICY
-- Don’t use anything you don’t understand.
+- If a library can be replaced with 50=< LOC, replace it.
 - Avoid dependencies unless absolutely essential.
+- Don’t use anything you don’t understand.
 - Prefer native APIs and first-party tools.
-- If a library can be replaced with <50 LOC, replace it.
 
 ---
 
