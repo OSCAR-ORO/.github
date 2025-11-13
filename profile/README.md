@@ -28,7 +28,7 @@
 
 ## 4. CONTROL
 - Vertical integrate everything.
-- Full-stack control. 
+- Full-control the tech stack. 
 - Know always what's happening to your machine.
 - Build modular; Control each module.
 - Struggle towards same-origin policy.
