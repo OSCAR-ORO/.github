@@ -1,6 +1,6 @@
 # MY BUILDER CREED
 
-## 1. SIMPLICITY
+## 1. SIMPLIFY
 - Good code is simple code.
 - Always ask: _What’s the simplest way to do this?_
 - Delete anything non-essential.
@@ -9,7 +9,7 @@
 
 ---
 
-## 2. GAME
+## 2. GAMIFY
 - Good tech must feel like a **Game**: _intuitive, engaging, reactive_.
 - Care about every detail.
 - Reduce the number of details so you can care about all of them.
@@ -18,7 +18,7 @@
 
 ---
 
-## 3. DEPENDENCY POLICY
+## 3. DELETE
 - If a library can be replaced with 50=< LOC, replace it.
 - Avoid dependencies unless absolutely essential.
 - Don’t use anything you don’t understand.
@@ -26,8 +26,9 @@
 
 ---
 
-## 4. FULL CONTROL
+## 4. CONTROL
 - Vertical integrate everything.
+- Full-stack control. 
 - Know always what's happening to your machine.
 - Build modular; Control each module.
 - Struggle towards same-origin policy.
