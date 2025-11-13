@@ -9,8 +9,8 @@
 
 ---
 
-## 2. ART
-- Good tech is art-like: **beautiful & durable**.
+## 2. GAME
+- Good tech must feel like a **Game**: _intuitive, engaging, reactive_.
 - Care about every detail.
 - Reduce the number of details so you can care about all of them.
 - You're not writing code — **you're creating a machine**.
