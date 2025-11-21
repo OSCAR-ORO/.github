@@ -1,11 +1,14 @@
 # MY BUILDER CREED
 
 ## 1. SIMPLIFY
-- Good code is simple code.
-- Always ask: _What’s the simplest way to do this?_
+- Always ask: _What’s the simplest way to do X?_
 - Delete anything non-essential.
 - Use the simplest tech first: SQL > HTML/SVG > CSS > JS/TS > ...
 - Care about every detail; Reduce num details to care about all.
+- If a library can be replaced with 50=< LOC, replace it.
+- Avoid dependencies unless absolutely essential.
+- Don’t use anything you don’t understand.
+- Prefer native APIs and first-party tools.
 ---
 
 ## 2. GAMIFY
@@ -16,10 +19,7 @@
 ---
 
 ## 3. DELETE
-- If a library can be replaced with 50=< LOC, replace it.
-- Avoid dependencies unless absolutely essential.
-- Don’t use anything you don’t understand.
-- Prefer native APIs and first-party tools.
+
 
 ---
 
