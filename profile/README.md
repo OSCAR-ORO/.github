@@ -18,12 +18,7 @@
 - Transparent: Know what's happening right away -> | Reactive | Open | Aligned |
 ---
 
-## 3. DELETE
-
-
----
-
-## 4. CONTROL
+## 3. CONTROL
 - You're not writing code — **you're creating a machine**.
 - Think in terms of **Projects & Machines**, not Hardware/Software.
 - Vertical integrate everything.
