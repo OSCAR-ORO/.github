@@ -1,6 +1,6 @@
 # MY BUILDER CREED
 
-## 1. SIMPLIFY    _Fewest parts as possible_
+## 1. SIMPLICITY    _Fewest parts as possible_
 - Delete anything non-essential. 
 - Use the simplest tech first
 - Care about every detail
@@ -10,14 +10,14 @@
 - Prefer native APIs and first-party tools.
 ---
 
-## 2. ERGONOMIFY    _Delightful to use_
+## 2. ERGONOMICS    _Delightful to use_
 - Refine until UX feels like a **Game**
 - Show don't tell
 - Build flexible
 - Build modular
 ---
 
-## 3. TRANSPARENTIFY    _Know what's happening right away_
+## 3. TRANSPARENCY    _Know what's happening right away_
 - You're not writing code — **you're creating machines**.
 - Think in terms of **Projects & Machines**, not Hardware/Software.
 - Vertical integrate as possible. 
