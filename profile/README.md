@@ -1,27 +1,27 @@
 # MY BUILDER CREED
 
-## 1. SIMPLICITY    _Fewest parts as possible_
-- Delete anything non-essential. 
-- Use the simplest tech first
-- Care about every detail
-- If a library can be replaced with 50=< LOC, replace it.
-- Avoid dependencies unless absolutely essential.
-- Don’t use anything you don’t understand.
-- Prefer native APIs and first-party tools.
----
+## 1. SIMPLICITY    _Few parts as possible_
+- DELETE ANYTHING NON-ESSENTIAL.
+- USE SIMPLEST TECH FIRST.
+- IF A LIB CAN BE REPLACED WITH 50<= LOC, REPLACE IT.
+- AVOID DEPS UNLESS ABSOLUTELY ESSENTIAL.
+- DON'T USE ANYTHING YOU DON'T UNDERSTAND.
 
-## 2. ERGONOMICS    _Delightful to use_
-- Refine until UX feels like a **Game**
-- Show don't tell
-- Build flexible
-- Build modular
----
+## 2. ERGONOMICS    _Comfortable to work with_
+- CARE ABOUT EVERY DETAIL.
+- REFINE UNTIL IT FEELS LIKE A **GAME**.
+- SHOW, DON'T TELL.
+- THINK IN TERMS OF **PROJECTS & MACHINES** NOT HARDWARE/SOFTWARE.
 
-## 3. TRANSPARENCY    _Know what's happening right away_
-- You're not writing code — **you're creating machines**.
-- Think in terms of **Projects & Machines**, not Hardware/Software.
-- Vertical integrate as possible. 
-- Full-control the tech stack as possible. 
+## 3. RELIABILITY    _20y time-proof_
+- BUILD AS IF YOUR CREATION HAS TO ENDURE AT LEAST 20y.
+- PREFER NATIVE APIs & 1st PARTY TOOLS.
+- NEVER OUTSOURCE A CORE PROCESS.
+- VERTICAL INTEGRATE AS MUCH AS POSSIBLE. 
+- FULL-CONTROL THE TECH STACK.
 
-<img width="409" height="610" alt="moonsun" src="https://github.com/user-attachments/assets/14812786-51cb-4d2c-9ef7-b844cc8c02f5" />
+## 4. MODULARITY    _DIVIDE TO CONQUER_
+- BUILD TO SCALE.
+- BE FLEXIBLE.
+
 
