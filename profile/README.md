@@ -1,6 +1,6 @@
 # MY BUILDER CREED
 
-## 1. SIMPLICITY    ->   _Few parts as possible_
+## 1. SIMPLICITY    ->   _Fewest parts as possible_
 - DELETE ANYTHING NON-ESSENTIAL.
 - USE SIMPLEST TECH FIRST.
 - IF A LIB CAN BE REPLACED WITH 50<= LOC, REPLACE IT.
@@ -8,7 +8,7 @@
 - DON'T USE ANYTHING YOU DON'T UNDERSTAND.
 - AUTOMATE AS MUCH AS POSSIBLE. 
 
-## 2. ERGONOMICS    ->  _Comfortable to work with_
+## 2. ERGONOMICS    ->  _Easy to work with_
 - CARE ABOUT EVERY DETAIL.
 - REFINE IT UNTIL IT FEELS LIKE A **GAME**.
 - SHOW, DON'T TELL.
